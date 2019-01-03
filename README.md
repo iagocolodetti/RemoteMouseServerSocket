@@ -17,7 +17,7 @@ Projeto desenvolvido com o único objetivo de controlar remotamente as ações d
 https://github.com/iagocolodetti/RemoteMouseServerSocket/releases
 * [RemoteMouseServer.jar](https://github.com/iagocolodetti/RemoteMouseServerSocket/releases/download/v1.0/RemoteMouseServer.jar "RemoteMouseServer.jar")
 * [Código-fonte](https://github.com/iagocolodetti/RemoteMouseServerSocket/archive/v1.0.zip "v1.0.zip")
-* [Cliente](https://github.com/iagocolodetti/RemoteMouseClientSocket/blob/master/README.md#downloads "RemoteMouseClient#Downloads")
+* [Cliente](https://github.com/iagocolodetti/RemoteMouseClientSocket/blob/master/README.md#downloads "RemoteMouseClientSocket#Downloads")
 # Sobre
 Aplicação servidora (PC) para disponibilização do serviço. Ao iniciar o app e ligar o serviço, a parte cliente da aplicação (Android) deverá ser capaz de controlar as ações do mouse remotamente.
 <br>
